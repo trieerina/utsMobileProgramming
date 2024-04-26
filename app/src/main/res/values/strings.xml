@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">uts</string>
+    <string name="nama">Nama :Tri Erina Yulianti</string>
+    <string name="lahir">Tempat Tanggal Lahir : Banyumas, 23 Juni 2004</string>
+    <string name="Alamat">Alamat :Banteran RT 1 RQ 7</string>
+    <string name="hobi">Hobi : Berenang</string>
 </resources>
